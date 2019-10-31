@@ -1,0 +1,5 @@
+spotify - C:\Users\user\AppData\Roaming\Spotify\Spotify.exe
+firefox - C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+discord - C:\Users\user\AppData\Local\Discord\app-0.0.304\Discord.exe
+chrome - C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+QQ - C:\Program Files (x86)\Tencent\QQ\Bin\QQ.exe
